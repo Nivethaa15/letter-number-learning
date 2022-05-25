@@ -36,11 +36,11 @@ export const Footer = () => {
       <Text>
         Code:{" "}
         <Link
-          href="https://twitter.com/samueldjones"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
         >
-          Samuel Jones
+          
         </Link>
       </Text>
     </Wrapper>
